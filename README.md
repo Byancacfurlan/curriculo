@@ -18,5 +18,5 @@ Esta atividade foi desenvolvida para a aula de programação WEB, da primeira fa
 
 
 ### Um pouco mais sobre mim!
-<a href="https://linkedin.com/in/https://br.linkedin.com/in/byanca-furlan-469b56102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[https://www.linkedin.com/in/byanca-furlan/]" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://br.linkedin.com/in/byanca-furlan-469b56102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/byanca-furlan/" height="30" width="40" /></a>
 </p>
